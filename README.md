@@ -26,7 +26,7 @@
 #  ❗️ This Project is no longer accepting PRs since the project is excluded from hacktoberfest. 
 # Thanks to everyone for contributing and we hope it was a good learning experience on open source for you all.
 
-# ✨ hacktoberfest2021 💫
+# ✨ hacktoberfest2023 💫
 
 ![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
@@ -85,7 +85,7 @@ git push origin branch-name
    
 <!--       END OF README           END OF README         END OF README         END OF README          END OF README           END OF README           END OF README      -->
 
-### Preview Kyouka Live
+# Preview Kyouka Live
 
 <p align="center">
  <img src="https://i.ibb.co/Y2gWNnZ/Screenshot-from-2023-07-01-20-12-22.png" alt="main" width="100%">
